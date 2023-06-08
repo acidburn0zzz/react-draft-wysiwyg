@@ -50,7 +50,7 @@
     "style-loader": "^0.20.2",
     "url-loader": "^0.6.2",
     "webpack": "^3.10.0",
-    "webpack-bundle-analyzer": "^2.11.1",
+    "webpack-bundle-analyzer": "^4.9.0",
     "embed-video": "^2.0.4"
   },
   "dependencies": {
